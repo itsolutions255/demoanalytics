@@ -1,2 +1,2 @@
 # demoanalytics
-This page is focus testing Googla Analytics
+This page is to focus testing Googla Analytics
